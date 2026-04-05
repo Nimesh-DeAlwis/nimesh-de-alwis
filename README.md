@@ -161,12 +161,6 @@ graph LR
 
 ---
 
-## 📈 Activity Graph
-
-[![Nimesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimesh-DeAlwis&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true)](https://github.com/Nimesh-DeAlwis)
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
